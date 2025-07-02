@@ -79,72 +79,72 @@ active:
   - html/semantics
   - js/web-workers
   - tools/algorithm-complexity
-  - tools/cors
-  - tools/static-types
-  - html/input
-  - tools/clean-architecture
-  - js/boolean
-  - css/transform-function
-  - html/section
-  - css/pseudoelements
-  - html/div
-  - html/flow
-  - recipes/popup
+  - css/attr
+  - recipes/progress
+  - css/custom-properties
+  - css/position
+  - tools/bundlers
+  - js/array-reduce-right
   - tools/ci-cd
-  - css/flexbox-guide
+  - js/array-entries
   - css/display
-  - js/var-let
+  - js/function-context
+  - html/video
+  - css/box-model
+  - a11y/screenreaders
+  - js/async-in-js
+  - css/transform-function
+  - css/pseudoelements
+  - html/img
   - css/box-shadow
+  - js/var-let
+  - js/closures
+  - js/geolocation-api
+  - a11y/content-hidden
+  - css/keyframes
+  - tools/how-the-browser-creates-pages
+  - recipes/ajax-form
+  - recipes/center
+  - tools/cors
+  - html/input
+  - css/box-sizing
+  - tools/network
+  - tools/webpack
+  - a11y/aria-hidden
+  - tools/clean-architecture
+  - html/article
+  - html/form
   - html/head
   - tools/oop
-  - tools/how-the-browser-creates-pages
-  - js/async-in-js
-  - tools/bundlers
-  - a11y/css-impact-on-a11y
   - css/grid-guide
-  - html/article
-  - js/deal-with-forms
-  - tools/agile
-  - a11y/aria-intro
-  - a11y/aria-hidden
-  - js/array-entries
-  - html/img
-  - js/geolocation-api
   - css/scrollbar-gutter
-  - css/custom-properties
-  - js/infinite-scroll
-  - css/position
-  - js/closures
+  - tools/docker
   - css/specificity
-  - css/attr
-  - tools/webpack
-  - js/function-context
-  - js/function
-  - css/media
+  - recipes/popup
   - tools/cli
+  - a11y/css-impact-on-a11y
+  - html/section
+  - css/media
+  - html/div
+  - js/execution-order
+  - js/boolean
+  - html/doctype
+  - a11y/live-region
+  - js/infinite-scroll
+  - js/function
+  - html/nav
+  - css/flexbox-guide
+  - a11y/aria-intro
+  - tools/gitlab-ci-cd
+  - js/deal-with-forms
+  - recipes/snow
+  - tools/static-types
+  - tools/markdown
+  - recipes/git-rebase-onto
+  - html/flow
   - recipes/character-counter
   - recipes/lets-encrypt-nginx
-  - html/doctype
-  - recipes/center
-  - html/form
-  - tools/docker
-  - recipes/git-rebase-onto
-  - tools/gitlab-ci-cd
-  - css/box-sizing
-  - recipes/ajax-form
-  - tools/markdown
-  - tools/network
-  - css/box-model
-  - js/array-reduce-right
-  - js/execution-order
+  - tools/agile
   - tools/how-to-test-and-why
-  - css/keyframes
-  - recipes/progress
-  - a11y/content-hidden
-  - a11y/live-region
-  - a11y/screenreaders
-  - recipes/snow
-  - html/video
-  - html/nav
 ---
 
